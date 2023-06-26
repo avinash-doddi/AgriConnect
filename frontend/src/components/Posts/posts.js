@@ -4,7 +4,7 @@ import './Posts.scss'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import PostItem from './PostItem';
+import PostItem from './postItem'
 import PostCard from './PostTemplate';
 import videoIcon from './images/video-icon.png';
 import userIcon from './images/user.svg';
